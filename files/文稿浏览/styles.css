@@ -481,7 +481,7 @@
   left:0px;
   top:0px;
   width:352px;
-  height:246px;
+  height:236px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -494,15 +494,15 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:404px;
+  top:409px;
   width:352px;
-  height:246px;
+  height:236px;
 }
 #u633 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:-5px;
   width:352px;
   word-wrap:break-word;
 }
@@ -510,7 +510,7 @@
   border-width:0px;
   position:absolute;
   left:347px;
-  top:400px;
+  top:405px;
   width:1px;
   height:1px;
 }
